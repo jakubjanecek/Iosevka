@@ -1,0 +1,139 @@
+[buildPlans.IosevkaCustom]
+family = "IosevkaCustom"
+spacing = "term"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = false
+
+[buildPlans.IosevkaCustom.variants]
+inherits = "ss15"
+
+[buildPlans.IosevkaCustom.variants.design]
+two = "curly-neck-serifless"
+three = "two-arcs"
+four = "semi-open-serifless"
+six = "open-contour"
+seven = "straight-serifless-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "slashed-cutout"
+capital-b = "standard-interrupted-serifless"
+capital-p = "open-serifless"
+capital-q = "crossing"
+capital-r = "straight-open-serifless"
+capital-s = "serifless"
+capital-y = "straight-serifless"
+g = "double-storey-open"
+p = "eared-serifless"
+y = "cursive-flat-hook-serifless"
+z = "straight-serifless"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+number-sign = "upright-open"
+ampersand = "lower-open"
+at = "threefold-solid-inner"
+dollar = "interrupted"
+percent = "rings-continuous-slash-also-connected"
+question = "corner-flat-hooked"
+
+[buildPlans.IosevkaCustom.variants.italic]
+two = "curly-neck-serifless"
+three = "two-arcs"
+four = "semi-open-serifless"
+six = "open-contour"
+seven = "curly-serifless-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "slashed-cutout"
+capital-b = "standard-interrupted-serifless"
+capital-p = "open-serifless"
+capital-q = "crossing"
+capital-r = "straight-open-serifless"
+capital-s = "serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless-with-crossbar"
+g = "double-storey-open"
+i = "serifed-diagonal-tailed"
+k = "diagonal-tailed-cursive-serifless"
+l = "serifed-diagonal-tailed"
+p = "eared-serifless"
+q = "diagonal-tailed-serifless"
+s = "serifless"
+y = "cursive-flat-hook-serifless"
+z = "straight-serifless-with-crossbar"
+ascii-grave = "raised-inverse-comma"
+ascii-single-quote = "raised-comma"
+number-sign = "slanted-open"
+ampersand = "lower-open"
+at = "threefold-solid-inner"
+dollar = "slanted-interrupted"
+
+[buildPlans.IosevkaCustom.variants.oblique]
+two = "curly-neck-serifless"
+three = "two-arcs"
+four = "semi-open-serifless"
+six = "open-contour"
+seven = "curly-serifless-crossbar"
+eight = "two-circles"
+nine = "open-contour"
+zero = "slashed-cutout"
+capital-b = "standard-interrupted-serifless"
+capital-f = "serifless"
+capital-p = "open-serifless"
+capital-q = "crossing"
+capital-r = "straight-open-serifless"
+capital-s = "serifless"
+capital-y = "straight-serifless"
+capital-z = "straight-serifless-with-crossbar"
+a = "double-storey-tailed"
+e = "rounded"
+f = "flat-hook-diagonal-tailed-crossbar-at-x-height"
+g = "double-storey-open"
+i = "serifed-diagonal-tailed"
+j = "diagonal-tailed-serifed"
+k = "diagonal-tailed-cursive-serifless"
+l = "serifed-diagonal-tailed"
+p = "eared-serifless"
+q = "diagonal-tailed-serifless"
+r = "hookless-top-serifed"
+t = "diagonal-tailed-short-neck"
+x = "cursive"
+y = "cursive-flat-hook-serifless"
+z = "straight-serifless-with-crossbar"
+ascii-grave = "raised-inverse-comma"
+ascii-single-quote = "raised-comma"
+number-sign = "slanted-open"
+ampersand = "lower-open"
+at = "threefold-solid-inner"
+dollar = "slanted-interrupted"
+question = "corner-flat-hooked"
+
+[buildPlans.IosevkaCustom.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.IosevkaCustom.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.IosevkaCustom.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.IosevkaCustom.weights.SemiBold]
+shape = 600
+menu = 600
+css = 600
+
+[buildPlans.IosevkaCustom.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.IosevkaCustom.widths.Normal]
+shape = 548
+menu = 5
+css = "normal"
